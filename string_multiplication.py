@@ -1,3 +1,4 @@
+# string multiplication
 def str_demo(str_in,n):
     for x in range(n):
         print(str_in)
